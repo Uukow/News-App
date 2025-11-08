@@ -251,7 +251,8 @@ This project is licensed under the MIT License.
 
 ## 👥 Contributors
 
-- Your Name/Team
+- Abdulkadir Uukow
+- Fardowsa Sheik Abdirahman
 
 ## 📞 Support
 
@@ -268,4 +269,4 @@ For issues, questions, or contributions, please:
 
 ---
 
-**Made with ❤️ for Uukow Media**
+**Made with ❤️ for Uukow Technology Solutions UTECH**

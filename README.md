@@ -258,7 +258,7 @@ This project is licensed under the MIT License.
 
 For issues, questions, or contributions, please:
 - Open an issue on GitHub
-- Contact: [your-email@example.com]
+- Contact: info@uukowtech.com
 - Visit: [https://uukow.com](https://uukow.com)
 
 ## 🙏 Acknowledgments
